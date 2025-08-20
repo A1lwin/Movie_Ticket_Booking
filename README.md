@@ -1,7 +1,7 @@
 # Movie_Ticket_Booking
 # 🎬 Movie Ticket Booking System
 
-A simple **Movie Ticket Booking System** developed in Java.  
+A simple **Movie Ticket Booking System** developed in C++.  
 This project allows users to book movie tickets, view available movies, and manage bookings.
 
 ---
